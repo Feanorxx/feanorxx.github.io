@@ -1,0 +1,10 @@
+Body {
+	background: black;
+	
+	}
+#main {
+	color: white;
+	text-align: center;
+	padding: 200px;
+	opacity: .5;
+}
